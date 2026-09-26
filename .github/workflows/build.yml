@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Build TWRP by Ace-MotoG60sEnjoyer
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Clean Up Space
