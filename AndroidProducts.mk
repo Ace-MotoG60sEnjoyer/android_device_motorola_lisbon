@@ -9,6 +9,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_lisbon.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_lisbon-user \
     twrp_lisbon-userdebug \
     twrp_lisbon-eng
