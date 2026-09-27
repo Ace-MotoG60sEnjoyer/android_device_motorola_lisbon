@@ -46,8 +46,8 @@ jobs:
     - name: Clone Device Tree
       run: |
         cd workspace
-        git clone https://github.com/Ace-MotoG60sEnjoyer/android_device_motorola_lisbon.git -b main device/motorola/lisbon
-
+        git clone https://github.com/Ace-MotoG60sEnjoyer/android_device_motorola_lisbon.git device/motorola/lisbon
+        
     - name: Building Recovery
       run: |
         cd workspace
