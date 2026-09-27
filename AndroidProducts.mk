@@ -10,4 +10,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     twrp_lisbon-userdebug \
+    twrp_lisbon-user \
     twrp_lisbon-eng
